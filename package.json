@@ -1,0 +1,32 @@
+{
+  "name": "mod4_exercicios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+
+    "start1": "node dist/ex1/index.js",
+    "build-and-run1": "npm run build  && npm run start1",
+
+    "start2": "node dist/ex2/index.js",
+    "build-and-run2": "npm run build  && npm run start2",
+
+    "start3": "node dist/ex3/index.js",
+    "build-and-run3": "npm run build  && npm run start3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leotinoco7/MOD4_exercicios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leotinoco7/MOD4_exercicios/issues"
+  },
+  "homepage": "https://github.com/leotinoco7/MOD4_exercicios#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
