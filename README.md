@@ -26,9 +26,9 @@ npm run build
 npm run start1 (para o exercício 1)
 npm run start2 (para o exercício 2)
 npm run start3 (para o exercício 3)
-```
 
-Caso deseje rodar localmente, atente-se aos arquivos de [b]COLLECTION[/b] e [b]ENVIRONMENT[/b] já dispostos, além da configuração do .env (utilize o .env.example como base)
+(Opcionalmente, você tambem pode fazer a build deles separado, através do comando [i]npm run build-and-runX[i], aonde X é o número do exercício)
+```
 
 ## 🛠️ Construído com
 
