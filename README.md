@@ -27,7 +27,8 @@ npm run start1 (para o exercício 1)
 npm run start2 (para o exercício 2)
 npm run start3 (para o exercício 3)
 
-(Opcionalmente, você tambem pode fazer a build deles separado, através do comando [i]npm run build-and-runX[i], aonde X é o número do exercício)
+(Opcionalmente, você tambem pode fazer a build deles separado,
+através do comando npm run build-and-runX, aonde X é o número do exercício)
 ```
 
 ## 🛠️ Construído com
